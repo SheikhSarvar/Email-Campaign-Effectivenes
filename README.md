@@ -12,3 +12,17 @@ In this problem statement, we will be trying to create machine learning models t
 # Problem Description
 
 Most of the small to medium business owners are making effective use of Gmail-based Email marketing Strategies for offline targeting of converting their prospective customers into leads so that they stay with them in business. The main objective is to create a machine learning model to characterize the mail and track the mail that is ignored; read; acknowledged by the reader. Data columns are self-explanatory.
+
+# Test Recall and Precision value under Smote
+![hello](https://github.com/SheikhSarvar/Email-Campaign-Effectivenes/blob/main/33.PNG)
+
+# Test Recall and Precision value under Rus
+![hello](https://github.com/SheikhSarvar/Email-Campaign-Effectivenes/blob/main/34.PNG)
+
+# Score For various Machine Learning model
+![hello](https://github.com/SheikhSarvar/Email-Campaign-Effectivenes/blob/main/35.PNG)
+
+# Variable Visualization:
+![hello](https://github.com/SheikhSarvar/Email-Campaign-Effectivenes/blob/main/20.PNG)
+![hello](https://github.com/SheikhSarvar/Email-Campaign-Effectivenes/blob/main/19.PNG)
+
